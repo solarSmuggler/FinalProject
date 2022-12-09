@@ -1,1 +1,4 @@
 # FinalProject
+The experiment collects reaction times for 3 letter english words versus nonwords. It compares whether participants are native english speakers or not and allows them to note which languages they consider to be their native languages. 
+There are 12 trials per block, 6 english words ('bad','mad','log','rot','rat','wit') and 6 nonwords ('pgl','kfi','rih','qup','xin','cif') are presented in a random order following a brief fixation cross. The stimuli will stay on screen until a participant makes a response. Participants will press W if they recognize it as a word or N if they think it is not a word. 
+Saved data includes which word appeared on each trial, the current block and trial number, if the participant made an accurate response, the participants reaction time, and each native language the particpant wrote down. The file is saved as a CSV.
